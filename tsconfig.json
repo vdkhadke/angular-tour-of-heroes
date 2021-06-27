@@ -6,31 +6,18 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
-<<<<<<< HEAD
-=======
-    "emitDecoratorMetadata": true,
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
     "experimentalDecorators": true,
     "module": "esnext",
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es2015",
-<<<<<<< HEAD
-=======
-    "typeRoots": [
-      "node_modules/@types"
-    ],
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
     "lib": [
       "es2018",
       "dom"
     ]
-<<<<<<< HEAD
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
-=======
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
   }
 }

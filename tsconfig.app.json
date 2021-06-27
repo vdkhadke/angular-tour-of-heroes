@@ -4,20 +4,11 @@
     "outDir": "./out-tsc/app",
     "types": []
   },
-<<<<<<< HEAD
   "files": [
     "src/main.ts",
     "src/polyfills.ts"
   ],
   "include": [
     "src/**/*.d.ts"
-=======
-  "include": [
-    "src/**/*.ts"
-  ],
-  "exclude": [
-    "src/test.ts",
-    "src/**/*.spec.ts"
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
   ]
 }

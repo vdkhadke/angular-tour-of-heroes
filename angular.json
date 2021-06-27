@@ -18,11 +18,7 @@
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
-<<<<<<< HEAD
             "aot": true,
-=======
-            "aot": false,
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
             "assets": [
               "src/favicon.ico",
               "src/assets"
@@ -45,10 +41,6 @@
               "sourceMap": false,
               "extractCss": true,
               "namedChunks": false,
-<<<<<<< HEAD
-=======
-              "aot": true,
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
@@ -57,14 +49,11 @@
                   "type": "initial",
                   "maximumWarning": "2mb",
                   "maximumError": "5mb"
-<<<<<<< HEAD
                 },
                 {
                   "type": "anyComponentStyle",
                   "maximumWarning": "6kb",
                   "maximumError": "10kb"
-=======
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
                 }
               ]
             }
@@ -132,8 +121,4 @@
       }
     }},
   "defaultProject": "angular-tour-of-heroes"
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
