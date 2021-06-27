@@ -10,7 +10,11 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
+<<<<<<< HEAD
     expect(page.getTitleText()).toEqual('angular-tour-of-heroes app is running!');
+=======
+    expect(page.getTitleText()).toEqual('Welcome to angular-tour-of-heroes!');
+>>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
   });
 
   afterEach(async () => {

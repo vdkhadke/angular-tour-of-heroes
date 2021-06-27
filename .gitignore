@@ -4,15 +4,23 @@
 /dist
 /tmp
 /out-tsc
+<<<<<<< HEAD
 # Only exists if Bazel was run
 /bazel-out
+=======
+>>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
 
 # dependencies
 /node_modules
 
 # profiling files
+<<<<<<< HEAD
 chrome-profiler-events*.json
 speed-measure-plugin*.json
+=======
+chrome-profiler-events.json
+speed-measure-plugin.json
+>>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
 
 # IDEs and editors
 /.idea
@@ -22,6 +30,10 @@ speed-measure-plugin*.json
 *.launch
 .settings/
 *.sublime-workspace
+<<<<<<< HEAD
+=======
+*.iml
+>>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
 
 # IDE - VSCode
 .vscode/*
@@ -29,7 +41,10 @@ speed-measure-plugin*.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+<<<<<<< HEAD
 .history/*
+=======
+>>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
 
 # misc
 /.sass-cache

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HeroesComponent } from './heroes/heroes.component'
@@ -16,3 +17,15 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+=======
+// import { NgModule } from '@angular/core';
+// import { Routes, RouterModule } from '@angular/router';
+
+// const routes: Routes = [];
+
+// @NgModule({
+//   imports: [RouterModule.forRoot(routes)],
+//   exports: [RouterModule]
+// })
+// export class AppRoutingModule { }
+>>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
