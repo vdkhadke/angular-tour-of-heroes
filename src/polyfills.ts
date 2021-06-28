@@ -35,11 +35,7 @@
  * will put import in the top of bundle, so user need to create a separate file
  * in this directory (for example: zone-flags.ts), and put the following flags
  * into that file, and then add the following code before importing zone.js.
-<<<<<<< HEAD
  * import './zone-flags';
-=======
- * import './zone-flags.ts';
->>>>>>> d0545ca40851bcd2d9c391d3f972c2496b03fe40
  *
  * The flags allowed in zone-flags.ts are listed here.
  *
