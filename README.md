@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes [![angular-tour-of-heroes CI](https://github.com/vdkhadke/angular-tour-of-heroes/actions/workflows/github-actions.yml/badge.svg)](https://github.com/vdkhadke/angular-tour-of-heroes/actions/workflows/github-actions.yml)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
